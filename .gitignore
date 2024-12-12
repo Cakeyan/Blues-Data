@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+*.mp4
+*.log
+*.jsonl
+*.json
+*.pkl
+logs

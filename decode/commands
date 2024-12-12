@@ -1,0 +1,4 @@
+contact: Xin Yan <cakeyanxin@gmail.com>
+
+env: /cpfs/data/user/yanxin/env/conda/blues_data
+cmd: python prepare_bash.py
